@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "672267583922",
+    "project_id": "campuscollab-25",
+    "storage_bucket": "campuscollab-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672267583922:android:89832b7ce7fb2becc464ab",
+        "android_client_info": {
+          "package_name": "com.example.campus_collab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672267583922-a6ghkhdaeqeheg2ggretpbk0m9su3gq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campus_collab",
+            "certificate_hash": "c08249c4b91b0fa008a92671655e8eae4cfce668"
+          }
+        },
+        {
+          "client_id": "672267583922-86gu169ndo55l69mavh0a5fenhu9c2ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCks815h_T_kbIeHpDZH-XdrS05dOUo2Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672267583922-86gu169ndo55l69mavh0a5fenhu9c2ou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "672267583922-rhel67lvdh06t4an64vhcq8u0p3ar62e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campusCollab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

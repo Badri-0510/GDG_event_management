@@ -1,0 +1,2 @@
+D:/gdg_event_app/android/app/.cxx/Debug/54736t47/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/gdg_event_app/android/app/.cxx/Debug/54736t47/armeabi-v7a/CMakeFiles/rebuild_cache.dir
